@@ -2,6 +2,8 @@
 
 Dokumentasi Project: [Gdocs Dokumentasi](https://docs.google.com/document/d/1YCgypPoMMERBYrdwJU7E6ZEQB56IzcFU5sHRROaFlJ4/edit?usp=sharing)
 
+Prototype Figma: [Prototype BreadPats](https://www.figma.com/file/P9o3tiplGEvrkhgFSRxfyA/Proyek?node-id=0%3A1)
+
 Nama & NIM Anggota:
 1. Ahmad Fahlepie - 2201823113
 2. Steven Leonardi - 2201753265
