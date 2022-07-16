@@ -9,6 +9,6 @@ Nama & NIM Anggota:
 2. Steven Leonardi - 2201753265
 3. Muhammad Arief Wicaksono - 2201816000
 4. Shafnat Fuaini Satwika - 2201850354
-5. 2201836854 - Raihan Ariq Hermawan
+5. Raihan Ariq Hermawan - 2201836854 
 
 **NOTE: Dikarenakan kami mengerjakannya sebenarnya tidak menggunakan git, maka commit yang terlihat hanyalah milik saya yang mengupload saja, namun semua anggota lain sudah berkontribusi dan kontribusi terbesar juga bukan milik saya**
